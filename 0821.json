@@ -5,6 +5,7 @@
 {"name":"YueChan•国际","type":0,"url":"https://fongmi.cachefly.net/YueChan/Live/main/Global.m3u","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"肥羊•综合","type":0,"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/GSYD-IPV6.m3u","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"Meroser•综合","type":0,"url":"https://raw.fgit.cf/Meroser/IPTV/main/IPTV.m3u","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
+{"name":"joevess•综合","type":0,"url":"https://raw.githubusercontent.com/joevess/IPTV/main/sources/iptv_sources.m3u8","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"初秋语•电台","type":0,"url":"./radio.txt","playerType":1},
 {"name":"范明明•电台","type":0,"url":"https://fongmi.cachefly.net/fanmingming/live/main/radio/m3u/index.m3u","playerType":1},
 {"name":"初秋语•综合","type":0,"url":"./list.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
