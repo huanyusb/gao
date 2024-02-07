@@ -5,7 +5,7 @@
 {"name":"YueChan•国际","type":0,"url":"https://fongmi.cachefly.net/YueChan/Live/main/Global.m3u","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"肥羊•综合","type":0,"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/GSYD-IPV6.m3u","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"肥羊•sxg","type":0,"url":"https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/sxg.m3u","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
-{"name":"Meroser•综合","type":0,"url":"https://raw.fgit.cf/Meroser/IPTV/main/IPTV.m3u","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
+{"name":"Meroser•综合","type":0,"url":"https://raw.githubusercontent.com/Meroser/IPTV/main/IPTV.m3u","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"joevess•综合","type":0,"url":"https://raw.githubusercontent.com/joevess/IPTV/main/sources/iptv_sources.m3u8","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"央视直播","type":0,"playerType":1,"ua":"Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/120.0.0.0Safari/537.36Edg/120.0.0.0","url":"https://raw.githubusercontent.com/Yang20150427/Yc/main/%E5%A4%AE%E8%A7%86%E9%A2%91%E5%97%85%E6%8E%A2.m3u","boot":false,"timeout":20},
 {"name":"初秋语•电台","type":0,"url":"./radio.txt","playerType":1},
