@@ -8,7 +8,7 @@
 {"name":"YueChan•Adult","type":0,"url":"https://raw.githubusercontent.com/YueChan/Live/main/Adult.m3u","playerType":2,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"stream-link","type": 0, "url": "https://www.stream-link.org/stream-link.m3u","playerType":1,"epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}, 
 {"name":"ysp","type":0,"url":"http://192.168.17.100:5000/ysp.m3u","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
-{"name":"Tianjin","type":0,"url":"http://192.168.17.100:9080/tianjin.m3u","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
+{"name":"migu","type":0,"url":"http://192.168.17.100:9080/migu.m3u","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"beesport","type":0,"url":"http://192.168.17.100:5000/beesport.m3u","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"4gtv","type":0,"url":"http://192.168.17.100:5000/4gtv.m3u","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"tptv","type":0,"url":"http://192.168.17.100:5000/tptv_proxy.m3u","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
