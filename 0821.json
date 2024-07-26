@@ -15,7 +15,7 @@
 {"name":"4gtv","type":0,"url":"http://192.168.17.100:5000/4gtv.m3u","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"tptv","type":0,"url":"http://192.168.17.100:5000/tptv_proxy.m3u","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"itv","type":0,"url":"http://192.168.17.100:5000/itv_proxy.m3u","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
-{"name":"sxg","type":0,"url":"http://192.168.17.100:5000/sxg.m3u","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
+{"name":"thetv","type":0,"url":"http://192.168.17.100:5000/thetv.m3u","playerType":1,"epg":"https://assets.livednow.com/epg.xml"},
 {"name":"YanG•综合","type":0,"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"drang•ipv6","type":0,"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/drangjchen/IPTV/main/M3U/ipv6.m3u","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"范明明•ipv6","type":0,"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
