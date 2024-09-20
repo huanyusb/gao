@@ -11,6 +11,7 @@
 {"name":"ftindy","type": 0, "url": "http://192.168.17.100:35442/tv.m3u","playerType":2,"epg": "https://epg.v1.mk/fy.xml"}, 
 {"name":"ysp","type":0,"url":"http://192.168.17.100:5000/ysp.m3u","playerType":2,"logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"migu","type":0,"url":"http://192.168.17.100:9080/migu.m3u","playerType":2,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
+{"name":"tvzb","type":0,"url":"http://192.168.17.100:9080/tvzb.m3u","playerType":1},
 {"name":"beesport","type":0,"url":"http://192.168.17.100:5000/beesport.m3u","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"4gtv","type":0,"url":"http://192.168.17.100:5000/4gtv.m3u","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"tptv","type":0,"url":"http://192.168.17.100:5000/tptv_proxy.m3u","playerType":2,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
