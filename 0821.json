@@ -24,6 +24,7 @@
 {"name":"tptv_aml","type":0,"url":"http://192.168.6.190:5000/tptv_proxy.m3u","playerType":2},
 {"name":"itv_aml","type":0,"url":"http://192.168.6.190:5000/itv_proxy.m3u","playerType":2},
 {"name":"thetv_aml","type":0,"url":"http://192.168.6.190:5000/thetv.m3u","playerType":1},
+{"name":"dlhd_aml","type":0,"url":"http://192.168.6.190:5000/dlhd.m3u","playerType":1},
 {"name":"YanG•综合","type":0,"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"drang•ipv6","type":0,"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/drangjchen/IPTV/main/M3U/ipv6.m3u","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"范明明•ipv6","type":0,"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
